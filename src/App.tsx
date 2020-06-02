@@ -1,6 +1,9 @@
 import React from 'react';
+
 import './global.css';
+import Routes from './routes';
 
-const App: React.FC = () => <div className="App">Initial Commit</div>;
-
+const App: React.FC = () => {
+  return <Routes />;
+};
 export default App;
