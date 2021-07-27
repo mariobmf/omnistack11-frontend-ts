@@ -28,7 +28,7 @@ O BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribui�
 $ git clone https://github.com/mariobmf/omnistack11-frontend-ts.git
 
 # Entrar no Repositório
-$ cd /frontent
+$ cd /omnistack11-frontend-ts
 
 # Instalar as Dependências
 $ yarn install
